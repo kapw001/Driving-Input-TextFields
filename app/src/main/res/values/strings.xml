@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Driving</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="sex">Male / Female</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="contact">Contact Number</string>
+    <string name="submit">Submit</string>
+    <string name="popup">Popup</string>
+    <string name="nationality">Nationality</string>
+    <string name="vehicletype">Vehicle Type</string>
+    <string name="emirates">Emirates</string>
+    <string name="country">Country</string>
+
+
+    <string-array name="nationality">
+
+        <!--<item>Choose Nationality</item>-->
+        <item>India</item>
+        <item>US</item>
+        <item>UK</item>
+
+    </string-array>
+
+    <string-array name="vehicletype">
+
+        <!--<item>Choose Vehicle Type</item>-->
+        <item>Car</item>
+        <item>Bike</item>
+
+    </string-array>
+
+    <string-array name="emirates">
+
+        <!--<item>Choose Emirates</item>-->
+        <item>Abu Dhabi</item>
+        <item>Ajman AJM</item>
+
+    </string-array>
+
+    <string-array name="sex">
+
+        <!--<item>Choose Emirates</item>-->
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+    <string-array name="country">
+
+        <!--<item>Choose Dhabi</item>-->
+        <item>Abu Dhab</item>
+        <item>Ajman AJM</item>
+
+    </string-array>
+
+
+</resources>
